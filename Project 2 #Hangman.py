@@ -9,6 +9,17 @@ Created on Thu Feb 28 16:22:43 2019
 Python is easy
 Project 2 : Hangman
 """
+"""
+In this, "a word is choosen at random.
+         which is to be guessed by a player.
+         A word is to be guess letter by letter.
+         If letter is wrong hangman is to be drawn part by part.
+         Number of attempts are there which is given to a player.
+         If player is Unable to guess the word that is hangman is drawn completely.
+         If player guesses the word correctly he wins.
+"""
+
+
 import random
 
 def main():
